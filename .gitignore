@@ -1,0 +1,9 @@
+files/*.
+images/story
+cache/*.
+config.php
+README.md
+maps/
+images/avatars/upload/*.
+config.php
+/store/*.log
