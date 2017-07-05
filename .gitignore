@@ -6,4 +6,4 @@ README.md
 maps/
 images/avatars/upload/*.
 config.php
-/store/*.log
+/store/*.log.DS_Store
