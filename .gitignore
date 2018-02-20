@@ -1,9 +1,8 @@
 files/*.
 images/story
 cache/*.
-config.php
+/config.php
 README.md
 maps/
 images/avatars/upload/*.
-config.php
 /store/*.log.DS_Store
